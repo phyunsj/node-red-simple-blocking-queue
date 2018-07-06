@@ -21,7 +21,7 @@ Simple blocking queue (size : 20 for this demo) using Function Node.
 
 ## MQTT Connection Status Detection
 
-- `RED.nodes.getNode(` MQTT flow ID ')` 
+- `RED.nodes.getNode(` MQTT flow ID `)` 
 
 ```
 // mqtt out node
