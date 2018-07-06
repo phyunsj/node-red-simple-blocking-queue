@@ -30,6 +30,10 @@ var nextNode = RED.nodes.getNode("ae7f8962.dd8b18");
 mqtt_connected = nextNode.brokerConn.connected;
 ```
 
+<p align="center">
+<img src="https://github.com/phyunsj/node-red-simple-blocking-queue/blob/master/mqtt-out-flow-id.png" width="300px"/>
+</p>
+
 - `nodes/core/core/80-function.js`
 
 ```
