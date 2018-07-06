@@ -37,4 +37,4 @@ mqtt_connected = nextNode.brokerConn.connected;
 +               nodes : RED.nodes
             },
 ```
-```
+
