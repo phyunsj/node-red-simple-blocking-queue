@@ -36,6 +36,10 @@ mqtt_connected = nextNode.brokerConn.connected;
         RED: {
                 util: RED.util,
 +               nodes : RED.nodes
+ 
             },
++       require : require,  // If you wish to call "require()" in your function node. 
+                            // Otherwise,  create a custome node 
+                            // or adjust "functionGlobalContext" in settings.js
 ```
 
