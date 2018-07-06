@@ -5,9 +5,13 @@ Simple blocking queue (size : 20 for this demo) using Function Node.
 
 ## In Action
 
+- MQTT connected
+
 <p align="center">
 <img src="https://github.com/phyunsj/node-red-simple-blocking-queue/blob/master/blockedqueue-connected.gif" width="700px"/>
 </p>
+
+- MQTT disconnected
 
 <p align="center">
 <img src="https://github.com/phyunsj/node-red-simple-blocking-queue/blob/master/blockedqueue-disconnected.gif" width="700px"/>
