@@ -47,3 +47,9 @@ mqtt_connected = nextNode.brokerConn.connected;
                             // or adjust "functionGlobalContext" in settings.js
 ```
 
+## Persistent Storage Options
+
+- [node-red-contrib-key-value-store](https://github.com/boneskull/node-red-contrib-key-value-store) using lowdb
+- [node-red-contrib-msq-queue](https://github.com/damoclark/node-red-contrib-msg-queue) using sqlite3
+
+
