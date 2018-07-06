@@ -1,6 +1,6 @@
 # Node-RED Simple Blocking Queue
 
-Node-RED a simple blocking queue (size : 20 for this demo) using Function Node
+Simple blocking queue (size : 20 for this demo) using Function Node
 
 ## In Action
 
