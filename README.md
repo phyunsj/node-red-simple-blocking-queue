@@ -31,7 +31,7 @@ mqtt_connected = nextNode.brokerConn.connected;
 ```
 
 <p align="center">
-<img src="https://github.com/phyunsj/node-red-simple-blocking-queue/blob/master/mqtt-out-flow-id.png" width="300px"/>
+<img src="https://github.com/phyunsj/node-red-simple-blocking-queue/blob/master/mqtt-out-flow-id.png" width="500px"/>
 </p>
 
 - `nodes/core/core/80-function.js`
