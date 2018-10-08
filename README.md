@@ -42,7 +42,7 @@ mqtt_connected = nextNode.brokerConn.connected;
 <img src="https://github.com/phyunsj/node-red-simple-blocking-queue/blob/master/mqtt-out-flow-id.png" width="500px"/>
 </p>
 
-- `nodes/core/core/80-function.js`
+- `C:\Users\<your-name>\AppData\Roaming\npm\node_modules\node-red\nodes\core\core\80-function.js`
 
 ```
         RED: {
